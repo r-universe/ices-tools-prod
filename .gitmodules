@@ -1,10 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
 [submodule "icesVocab"]
 	path = icesVocab
-	url = https://github.com/ices-tools-prod/icesvocab
+	url = https://github.com/ices-tools-prod/icesVocab
+	shallow = true
+	registered = true
+[submodule "icesDatras"]
+	path = icesDatras
+	url = https://github.com/ices-tools-prod/icesDatras
 	shallow = true
 	registered = true

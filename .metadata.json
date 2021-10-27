@@ -2,5 +2,9 @@
   {
     "package": "icesVocab",
     "oncran": true
+  },
+  {
+    "package": "icesDatras",
+    "oncran": false
   }
 ]
