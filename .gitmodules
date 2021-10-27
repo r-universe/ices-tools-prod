@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "icesVocab"]
+	path = icesVocab
+	url = https://github.com/ices-tools-prod/icesvocab
+	shallow = true
+	registered = true
