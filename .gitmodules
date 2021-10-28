@@ -13,3 +13,48 @@
 	url = https://github.com/ices-tools-prod/icesDatras
 	shallow = true
 	registered = true
+[submodule "icesSAG"]
+	path = icesSAG
+	url = https://github.com/ices-tools-prod/icesSAG
+	shallow = true
+	registered = true
+[submodule "msy"]
+	path = msy
+	url = https://github.com/ices-tools-prod/msy
+	shallow = true
+	registered = true
+[submodule "icesSD"]
+	path = icesSD
+	url = https://github.com/ices-tools-prod/icesSD
+	shallow = true
+	registered = true
+[submodule "icesConnect"]
+	path = icesConnect
+	url = https://github.com/ices-tools-prod/icesConnect
+	shallow = true
+	registered = true
+[submodule "icesVMS"]
+	path = icesVMS
+	url = https://github.com/ices-tools-prod/icesVMS
+	shallow = true
+	registered = true
+[submodule "icesSharePoint"]
+	path = icesSharePoint
+	url = https://github.com/ices-tools-prod/icesSharePoint
+	shallow = true
+	registered = true
+[submodule "icesAdvice"]
+	path = icesAdvice
+	url = https://github.com/ices-tools-prod/icesAdvice
+	shallow = true
+	registered = true
+[submodule "rct3"]
+	path = rct3
+	url = https://github.com/ices-tools-prod/rct3
+	shallow = true
+	registered = true
+[submodule "TAF"]
+	path = TAF
+	url = https://github.com/ices-tools-prod/TAF
+	shallow = true
+	registered = true

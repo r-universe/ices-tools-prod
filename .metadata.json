@@ -6,5 +6,35 @@
   {
     "package": "icesDatras",
     "oncran": false
+  },
+  {
+    "package": "icesSAG"
+  },
+  {
+    "package": "msy"
+  },
+  {
+    "package": "icesSD"
+  },
+  {
+    "package": "icesConnect"
+  },
+  {
+    "package": "icesVMS"
+  },
+  {
+    "package": "icesSharePoint"
+  },
+  {
+    "package": "icesAdvice",
+    "oncran": false
+  },
+  {
+    "package": "rct3",
+    "oncran": false
+  },
+  {
+    "package": "TAF",
+    "oncran": false
   }
 ]
