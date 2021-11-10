@@ -3,6 +3,11 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "cpmtools"]
+	path = cpmtools
+	url = https://github.com/colinpmillar/cpmtools
+	shallow = true
+	registered = true
 [submodule "icesVocab"]
 	path = icesVocab
 	url = https://github.com/ices-tools-prod/icesVocab
