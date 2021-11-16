@@ -63,3 +63,8 @@
 	url = https://github.com/ices-tools-prod/TAF
 	shallow = true
 	registered = true
+[submodule "icesFO"]
+	path = icesFO
+	url = https://github.com/ices-tools-prod/icesFO
+	shallow = true
+	registered = true

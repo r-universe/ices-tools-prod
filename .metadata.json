@@ -39,5 +39,8 @@
   {
     "package": "TAF",
     "oncran": false
+  },
+  {
+    "package": "icesFO"
   }
 ]
