@@ -1,5 +1,8 @@
 [
   {
+    "package": "sfdSAR"
+  },
+  {
     "package": "cpmtools"
   },
   {
