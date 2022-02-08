@@ -3,6 +3,11 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "icesDatsu"]
+	path = icesDatsu
+	url = https://github.com/ices-tools-dev/icesDatsu
+	shallow = true
+	registered = true
 [submodule "sfdSAR"]
 	path = sfdSAR
 	url = https://github.com/ices-tools-dev/sfdSAR
