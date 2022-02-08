@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "icesDatsu"]
 	path = icesDatsu
-	url = https://github.com/ices-tools-dev/icesDatsu
+	url = https://github.com/ices-tools-prod/icesDatsu
 	shallow = true
 	registered = true
 [submodule "sfdSAR"]
