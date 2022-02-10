@@ -1,5 +1,8 @@
 [
   {
+    "package": "FLCore"
+  },
+  {
     "package": "icesDatsu"
   },
   {
@@ -26,7 +29,8 @@
     "package": "icesSD"
   },
   {
-    "package": "icesConnect"
+    "package": "icesConnect",
+    "oncran": false
   },
   {
     "package": "icesVMS"
