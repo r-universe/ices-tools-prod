@@ -17,7 +17,7 @@
   },
   {
     "package": "icesDatras",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "icesSAG"
