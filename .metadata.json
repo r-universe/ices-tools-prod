@@ -3,7 +3,8 @@
     "package": "FLCore"
   },
   {
-    "package": "icesDatsu"
+    "package": "icesDatsu",
+    "oncran": false
   },
   {
     "package": "sfdSAR"
