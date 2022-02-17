@@ -24,7 +24,8 @@
     "oncran": true
   },
   {
-    "package": "icesSAG"
+    "package": "icesSAG",
+    "oncran": false
   },
   {
     "package": "msy"
