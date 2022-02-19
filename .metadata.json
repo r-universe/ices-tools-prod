@@ -1,7 +1,7 @@
 [
   {
     "package": "icesDatsuQC",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "FLCore"
@@ -47,7 +47,7 @@
   },
   {
     "package": "icesAdvice",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rct3",
