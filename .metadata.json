@@ -1,5 +1,8 @@
 [
   {
+    "package": "fisheryO"
+  },
+  {
     "package": "icesDatsuQC",
     "oncran": true
   },

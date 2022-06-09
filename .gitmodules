@@ -3,6 +3,11 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "fisheryO"]
+	path = fisheryO
+	url = https://github.com/ices-tools-prod/fisheryO
+	shallow = true
+	registered = true
 [submodule "icesDatsuQC"]
 	path = icesDatsuQC
 	url = https://github.com/ices-tools-prod/icesDatsuQC
