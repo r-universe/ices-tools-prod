@@ -98,3 +98,8 @@
 	url = https://github.com/ices-tools-prod/icesFO
 	shallow = true
 	registered = true
+[submodule "icesdown"]
+	path = icesdown
+	url = https://github.com/ices-tools-prod/icesdown
+	shallow = true
+	registered = true

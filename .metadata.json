@@ -65,5 +65,8 @@
   },
   {
     "package": "icesFO"
+  },
+  {
+    "package": "icesdown"
   }
 ]
