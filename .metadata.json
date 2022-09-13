@@ -64,6 +64,10 @@
     "oncran": false
   },
   {
+    "package": "icesTAF",
+    "oncran": false
+  },
+  {
     "package": "icesFO"
   },
   {

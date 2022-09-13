@@ -93,6 +93,11 @@
 	url = https://github.com/ices-tools-prod/TAF
 	shallow = true
 	registered = true
+[submodule "icesTAF"]
+	path = icesTAF
+	url = https://github.com/ices-tools-prod/icesTAF
+	shallow = true
+	registered = true
 [submodule "icesFO"]
 	path = icesFO
 	url = https://github.com/ices-tools-prod/icesFO
