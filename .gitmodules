@@ -3,6 +3,11 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "RDBEScore"]
+	path = RDBEScore
+	url = https://github.com/ices-tools-dev/RDBEScore
+	shallow = true
+	registered = true
 [submodule "mixfishtools"]
 	path = mixfishtools
 	url = https://github.com/ices-tools-dev/mixfishtools
