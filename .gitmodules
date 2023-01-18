@@ -5,8 +5,9 @@
 	branch = HEAD
 [submodule "stockassessment"]
 	path = stockassessment
-	url = https://github.com/fishfollower/SAM/stockassessment
+	url = https://github.com/fishfollower/SAM
 	shallow = true
+	subdir = stockassessment
 	registered = true
 [submodule "RDBEScore"]
 	path = RDBEScore
