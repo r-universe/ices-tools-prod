@@ -71,7 +71,7 @@
   },
   {
     "package": "icesTAF",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "icesFO"
