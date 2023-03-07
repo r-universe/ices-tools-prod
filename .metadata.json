@@ -1,5 +1,8 @@
 [
   {
+    "package": "icesTAFDB"
+  },
+  {
     "package": "icesASD"
   },
   {

@@ -3,6 +3,11 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "icesTAFDB"]
+	path = icesTAFDB
+	url = https://github.com/ices-tools-prod/icesTAFDB
+	shallow = true
+	registered = true
 [submodule "icesASD"]
 	path = icesASD
 	url = https://github.com/ices-tools-prod/icesASD
