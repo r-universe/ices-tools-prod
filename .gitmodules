@@ -5,27 +5,27 @@
 	branch = HEAD
 [submodule "ggplotFL"]
 	path = ggplotFL
-	url = https://github.com/flr/FLCore
+	url = https://github.com/flr/ggplotFL
 	shallow = true
 	registered = true
 [submodule "FLBRP"]
 	path = FLBRP
-	url = https://github.com/flr/FLCore
+	url = https://github.com/flr/FLBRP
 	shallow = true
 	registered = true
 [submodule "FLasher"]
 	path = FLasher
-	url = https://github.com/flr/FLCore
+	url = https://github.com/flr/FLasher
 	shallow = true
 	registered = true
 [submodule "mse"]
 	path = mse
-	url = https://github.com/flr/FLCore
+	url = https://github.com/flr/mse
 	shallow = true
 	registered = true
 [submodule "FLSRTMB"]
 	path = FLSRTMB
-	url = https://github.com/flr/FLCore
+	url = https://github.com/flr/FLSRTMB
 	shallow = true
 	registered = true
 [submodule "FLRef"]
