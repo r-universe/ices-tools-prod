@@ -3,6 +3,31 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "ggplotFL"]
+	path = ggplotFL
+	url = https://github.com/flr/FLCore
+	shallow = true
+	registered = true
+[submodule "FLBRP"]
+	path = FLBRP
+	url = https://github.com/flr/FLCore
+	shallow = true
+	registered = true
+[submodule "FLasher"]
+	path = FLasher
+	url = https://github.com/flr/FLCore
+	shallow = true
+	registered = true
+[submodule "mse"]
+	path = mse
+	url = https://github.com/flr/FLCore
+	shallow = true
+	registered = true
+[submodule "FLSRTMB"]
+	path = FLSRTMB
+	url = https://github.com/flr/FLCore
+	shallow = true
+	registered = true
 [submodule "FLRef"]
 	path = FLRef
 	url = https://github.com/Henning-Winker/FLRef
