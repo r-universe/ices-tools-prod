@@ -3,6 +3,18 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "spict"]
+	path = spict
+	url = https://github.com/DTUAqua/spict
+	shallow = true
+	subdir = spict
+	registered = true
+[submodule "stockassessment"]
+	path = stockassessment
+	url = https://github.com/fishfollower/SAM
+	shallow = true
+	subdir = stockassessment
+	registered = true
 [submodule "FLfse"]
 	path = FLfse
 	url = https://github.com/flr/FLfse
