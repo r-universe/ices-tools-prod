@@ -3,6 +3,17 @@
 	url = https://github.com/ices-tools-prod/universe
 	shallow = true
 	branch = HEAD
+[submodule "FLfse"]
+	path = FLfse
+	url = https://github.com/flr/FLfse
+	shallow = true
+	subdir = FLfse
+	registered = true
+[submodule "FLFishery"]
+	path = FLFishery
+	url = https://github.com/flr/FLFishery
+	shallow = true
+	registered = true
 [submodule "ggplotFL"]
 	path = ggplotFL
 	url = https://github.com/flr/ggplotFL
