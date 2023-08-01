@@ -2,9 +2,106 @@
 	path = .registry
 	url = https://github.com/ices-tools-prod/universe
 	branch = HEAD
+[submodule "FLBRP"]
+	path = FLBRP
+	url = https://github.com/flr/FLBRP
+[submodule "FLCore"]
+	path = FLCore
+	url = https://github.com/flr/FLCore
+[submodule "FLFishery"]
+	path = FLFishery
+	url = https://github.com/flr/FLFishery
+[submodule "FLRef"]
+	path = FLRef
+	url = https://github.com/Henning-Winker/FLRef
+[submodule "FLSRTMB"]
+	path = FLSRTMB
+	url = https://github.com/flr/FLSRTMB
+[submodule "FLasher"]
+	path = FLasher
+	url = https://github.com/flr/FLasher
+[submodule "FLfse"]
+	path = FLfse
+	url = https://github.com/flr/FLfse
+	subdir = FLfse
+[submodule "RDBEScore"]
+	path = RDBEScore
+	url = https://github.com/ices-tools-dev/RDBEScore
+[submodule "TAF"]
+	path = TAF
+	url = https://github.com/ices-tools-prod/TAF
 [submodule "cat3advice"]
 	path = cat3advice
 	url = https://github.com/shfischer/cat3advice
+[submodule "cpmtools"]
+	path = cpmtools
+	url = https://github.com/colinpmillar/cpmtools
+[submodule "fisheryO"]
+	path = fisheryO
+	url = https://github.com/ices-tools-prod/fisheryO
+[submodule "ggplotFL"]
+	path = ggplotFL
+	url = https://github.com/flr/ggplotFL
+[submodule "icesASD"]
+	path = icesASD
+	url = https://github.com/ices-tools-prod/icesASD
+[submodule "icesAdvice"]
+	path = icesAdvice
+	url = https://github.com/ices-tools-prod/icesAdvice
+[submodule "icesConnect"]
+	path = icesConnect
+	url = https://github.com/ices-tools-prod/icesConnect
+[submodule "icesDatras"]
+	path = icesDatras
+	url = https://github.com/ices-tools-prod/icesDatras
+[submodule "icesDatsu"]
+	path = icesDatsu
+	url = https://github.com/ices-tools-prod/icesDatsu
+[submodule "icesDatsuQC"]
+	path = icesDatsuQC
+	url = https://github.com/ices-tools-prod/icesDatsuQC
+[submodule "icesFO"]
+	path = icesFO
+	url = https://github.com/ices-tools-prod/icesFO
+[submodule "icesSAG"]
+	path = icesSAG
+	url = https://github.com/ices-tools-prod/icesSAG
+[submodule "icesSD"]
+	path = icesSD
+	url = https://github.com/ices-tools-prod/icesSD
+[submodule "icesSharePoint"]
+	path = icesSharePoint
+	url = https://github.com/ices-tools-prod/icesSharePoint
+[submodule "icesTAF"]
+	path = icesTAF
+	url = https://github.com/ices-tools-prod/icesTAF
+[submodule "icesTAFDB"]
+	path = icesTAFDB
+	url = https://github.com/ices-tools-prod/icesTAFDB
+[submodule "icesVMS"]
+	path = icesVMS
+	url = https://github.com/ices-tools-prod/icesVMS
+[submodule "icesVocab"]
+	path = icesVocab
+	url = https://github.com/ices-tools-prod/icesVocab
+[submodule "icesdown"]
+	path = icesdown
+	url = https://github.com/ices-tools-prod/icesdown
+[submodule "mixfishtools"]
+	path = mixfishtools
+	url = https://github.com/ices-tools-dev/mixfishtools
+[submodule "mse"]
+	path = mse
+	url = https://github.com/flr/mse
+[submodule "msy"]
+	path = msy
+	url = https://github.com/ices-tools-prod/msy
+[submodule "rct3"]
+	path = rct3
+	url = https://github.com/ices-tools-prod/rct3
+[submodule "sfdSAR"]
+	path = sfdSAR
+	url = https://github.com/ices-tools-dev/sfdSAR
 [submodule "spict"]
 	path = spict
 	url = https://github.com/DTUAqua/spict
@@ -13,100 +110,3 @@
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
 	subdir = stockassessment
-[submodule "FLfse"]
-	path = FLfse
-	url = https://github.com/flr/FLfse
-	subdir = FLfse
-[submodule "FLFishery"]
-	path = FLFishery
-	url = https://github.com/flr/FLFishery
-[submodule "ggplotFL"]
-	path = ggplotFL
-	url = https://github.com/flr/ggplotFL
-[submodule "FLBRP"]
-	path = FLBRP
-	url = https://github.com/flr/FLBRP
-[submodule "FLasher"]
-	path = FLasher
-	url = https://github.com/flr/FLasher
-[submodule "mse"]
-	path = mse
-	url = https://github.com/flr/mse
-[submodule "FLSRTMB"]
-	path = FLSRTMB
-	url = https://github.com/flr/FLSRTMB
-[submodule "FLRef"]
-	path = FLRef
-	url = https://github.com/Henning-Winker/FLRef
-[submodule "icesTAFDB"]
-	path = icesTAFDB
-	url = https://github.com/ices-tools-prod/icesTAFDB
-[submodule "icesASD"]
-	path = icesASD
-	url = https://github.com/ices-tools-prod/icesASD
-[submodule "RDBEScore"]
-	path = RDBEScore
-	url = https://github.com/ices-tools-dev/RDBEScore
-[submodule "mixfishtools"]
-	path = mixfishtools
-	url = https://github.com/ices-tools-dev/mixfishtools
-[submodule "fisheryO"]
-	path = fisheryO
-	url = https://github.com/ices-tools-prod/fisheryO
-[submodule "icesDatsuQC"]
-	path = icesDatsuQC
-	url = https://github.com/ices-tools-prod/icesDatsuQC
-[submodule "FLCore"]
-	path = FLCore
-	url = https://github.com/flr/FLCore
-[submodule "icesDatsu"]
-	path = icesDatsu
-	url = https://github.com/ices-tools-prod/icesDatsu
-[submodule "sfdSAR"]
-	path = sfdSAR
-	url = https://github.com/ices-tools-dev/sfdSAR
-[submodule "cpmtools"]
-	path = cpmtools
-	url = https://github.com/colinpmillar/cpmtools
-[submodule "icesVocab"]
-	path = icesVocab
-	url = https://github.com/ices-tools-prod/icesVocab
-[submodule "icesDatras"]
-	path = icesDatras
-	url = https://github.com/ices-tools-prod/icesDatras
-[submodule "icesSAG"]
-	path = icesSAG
-	url = https://github.com/ices-tools-prod/icesSAG
-[submodule "msy"]
-	path = msy
-	url = https://github.com/ices-tools-prod/msy
-[submodule "icesSD"]
-	path = icesSD
-	url = https://github.com/ices-tools-prod/icesSD
-[submodule "icesConnect"]
-	path = icesConnect
-	url = https://github.com/ices-tools-prod/icesConnect
-[submodule "icesVMS"]
-	path = icesVMS
-	url = https://github.com/ices-tools-prod/icesVMS
-[submodule "icesSharePoint"]
-	path = icesSharePoint
-	url = https://github.com/ices-tools-prod/icesSharePoint
-[submodule "icesAdvice"]
-	path = icesAdvice
-	url = https://github.com/ices-tools-prod/icesAdvice
-[submodule "rct3"]
-	path = rct3
-	url = https://github.com/ices-tools-prod/rct3
-[submodule "TAF"]
-	path = TAF
-	url = https://github.com/ices-tools-prod/TAF
-[submodule "icesTAF"]
-	path = icesTAF
-	url = https://github.com/ices-tools-prod/icesTAF
-[submodule "icesFO"]
-	path = icesFO
-	url = https://github.com/ices-tools-prod/icesFO
-[submodule "icesdown"]
-	path = icesdown
-	url = https://github.com/ices-tools-prod/icesdown
