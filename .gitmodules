@@ -96,6 +96,11 @@
 [submodule "msy"]
 	path = msy
 	url = https://github.com/ices-tools-prod/msy
+[submodule "r4ss"]
+	path = r4ss
+	url = https://github.com/r4ss/r4ss
+	branch = main
+	registered = false
 [submodule "rct3"]
 	path = rct3
 	url = https://github.com/ices-tools-prod/rct3
