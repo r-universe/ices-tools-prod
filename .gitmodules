@@ -109,6 +109,9 @@
 	path = spict
 	url = https://github.com/DTUAqua/spict
 	subdir = spict
+[submodule "ss3diags"]
+	path = ss3diags
+	url = https://github.com/PIFSCstockassessments/ss3diags
 [submodule "stockassessment"]
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
