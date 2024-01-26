@@ -99,6 +99,9 @@
 [submodule "rct3"]
 	path = rct3
 	url = https://github.com/ices-tools-prod/rct3
+[submodule "rgdal"]
+	path = rgdal
+	url = https://github.com/cran/rgdal
 [submodule "sfdSAR"]
 	path = sfdSAR
 	url = https://github.com/ices-tools-dev/sfdSAR
