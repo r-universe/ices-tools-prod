@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ices-tools-prod/universe
+	url = https://github.com/ices-tools-prod/ices-tools-prod.r-universe.dev
 	branch = HEAD
 [submodule "FLBRP"]
 	path = FLBRP
