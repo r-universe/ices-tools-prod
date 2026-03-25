@@ -57,6 +57,9 @@
 [submodule "icesFO"]
 	path = icesFO
 	url = https://github.com/ices-tools-prod/icesFO
+[submodule "icesRDBES"]
+	path = icesRDBES
+	url = https://github.com/ices-tools-prod/icesRDBES
 [submodule "icesSAG"]
 	path = icesSAG
 	url = https://github.com/ices-tools-prod/icesSAG
