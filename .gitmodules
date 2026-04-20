@@ -108,7 +108,6 @@
 [submodule "spict"]
 	path = spict
 	url = https://github.com/DTUAqua/spict
-	branch = dev
 	subdir = spict
 [submodule "ss3diags"]
 	path = ss3diags
