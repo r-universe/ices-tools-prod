@@ -96,6 +96,9 @@
 [submodule "msy"]
 	path = msy
 	url = https://github.com/ices-tools-prod/msy
+[submodule "qcTAF"]
+	path = qcTAF
+	url = https://github.com/ices-tools-prod/qcTAF
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
