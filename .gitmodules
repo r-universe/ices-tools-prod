@@ -24,6 +24,9 @@
 	path = FLfse
 	url = https://github.com/flr/FLfse
 	subdir = FLfse
+[submodule "FishLife"]
+	path = FishLife
+	url = https://github.com/James-Thorson-NOAA/FishLife
 [submodule "RDBEScore"]
 	path = RDBEScore
 	url = https://github.com/ices-tools-dev/RDBEScore
