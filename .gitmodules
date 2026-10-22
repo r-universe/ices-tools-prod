@@ -105,6 +105,9 @@
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
+[submodule "rcef"]
+	path = rcef
+	url = https://github.com/DVillagra26/rcef
 [submodule "rct3"]
 	path = rct3
 	url = https://github.com/ices-tools-prod/rct3
