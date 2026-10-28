@@ -99,6 +99,10 @@
 [submodule "msy"]
 	path = msy
 	url = https://github.com/ices-tools-prod/msy
+[submodule "multiStockassessment"]
+	path = multiStockassessment
+	url = https://github.com/calbertsen/multi_SAM
+	subdir = multiStockassessment
 [submodule "qcTAF"]
 	path = qcTAF
 	url = https://github.com/ices-tools-prod/qcTAF
