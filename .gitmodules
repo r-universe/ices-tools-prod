@@ -36,7 +36,7 @@
 [submodule "TMB"]
 	path = TMB
 	url = https://github.com/kaskr/adcomp
-	branch = 1.9.23
+	branch = v1.9.23
 	subdir = TMB
 [submodule "cat3advice"]
 	path = cat3advice
