@@ -13,7 +13,7 @@
 	url = https://github.com/flr/FLFishery
 [submodule "FLRef"]
 	path = FLRef
-	url = https://github.com/Henning-Winker/FLRef
+	url = https://github.com/flr/FLRef
 [submodule "FLSRTMB"]
 	path = FLSRTMB
 	url = https://github.com/flr/FLSRTMB
@@ -75,9 +75,6 @@
 [submodule "icesTAFDB"]
 	path = icesTAFDB
 	url = https://github.com/ices-tools-prod/icesTAFDB
-[submodule "icesUtils"]
-	path = icesUtils
-	url = https://github.com/ices-tools-dev/icesUtils
 [submodule "icesVMS"]
 	path = icesVMS
 	url = https://github.com/ices-tools-prod/icesVMS
