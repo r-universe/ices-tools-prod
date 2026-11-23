@@ -30,10 +30,6 @@
 [submodule "TAF"]
 	path = TAF
 	url = https://github.com/ices-tools-prod/TAF
-[submodule "TMB"]
-	path = TMB
-	url = https://github.com/kaskr/adcomp
-	subdir = TMB
 [submodule "cat3advice"]
 	path = cat3advice
 	url = https://github.com/shfischer/cat3advice
